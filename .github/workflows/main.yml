@@ -5,7 +5,7 @@ on:
       - main
   pull_request:
     branches:
-      - main
+      - feature/bhusal
 
 jobs:
     Build-Deploy:
