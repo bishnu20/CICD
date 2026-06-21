@@ -1,11 +1,7 @@
 name: Build and Deploy Spring Boot Application
 on:
   push:
-    branches:
-      - feature/bhusal
   pull_request:
-    branches:
-      - feature/bhusal
 
 jobs:
     Build-Deploy:
