@@ -25,7 +25,7 @@ public class Student {
     // Getters and Setters
     public Long getId() {
         return id;
-    }
+    }   
 
     public void setId(Long id) {
         this.id = id;
@@ -45,6 +45,8 @@ public class Student {
 
     public void setEmail(String email) {
         this.email = email;
-    }
+    }   
+
+    
 
 }
